@@ -1,0 +1,10 @@
+[template]
+ignore = [ 
+  ".github",
+  ".git",
+  "riscv-ulp",
+  "src",
+  "LICENCE-APACHE",
+  "LICENSE-MIT",
+  "README.md"
+]
