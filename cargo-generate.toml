@@ -2,9 +2,10 @@
 ignore = [ 
   ".github",
   ".git",
+  ".gitignore",
   "riscv-ulp",
   "src",
-  "LICENCE-APACHE",
+  "LICENSE-APACHE",
   "LICENSE-MIT",
   "README.md"
 ]
